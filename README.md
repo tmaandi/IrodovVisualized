@@ -92,3 +92,4 @@ This project is open source and available under the MIT License.
 
 - I.E. Irodov for his excellent collection of physics problems
 - The Python scientific computing ecosystem (NumPy, Matplotlib, SciPy, etc.)
+# IrodovVisualized
