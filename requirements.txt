@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+ipywidgets
+plotly
+pandas
+sympy
+jupyter
+notebook
