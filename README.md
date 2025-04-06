@@ -88,6 +88,17 @@ Contributions are welcome! If you'd like to add visualizations for more problems
 
 This project is open source and available under the MIT License.
 
+## Copyright Notice and Disclaimer
+
+**Important:** This project contains problem statements from I.E. Irodov's "Problems in General Physics." These problem statements are used under the fair use doctrine for educational purposes only.
+
+- The problem statements are the intellectual property of I.E. Irodov and/or the publisher.
+- This project is not affiliated with, endorsed by, or connected to I.E. Irodov or the publisher.
+- The visualizations, code implementations, and explanations in this repository are original work.
+- This project is intended for educational purposes to help students better understand physics concepts through visualization.
+
+If you are the copyright holder and have concerns about the use of problem statements in this educational project, please contact the repository owner.
+
 ## Acknowledgments
 
 - I.E. Irodov for his excellent collection of physics problems
